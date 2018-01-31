@@ -1,0 +1,182 @@
+/*
+* @Author: a
+* @Date:   2018-01-29 10:25:56
+* @Last Modified by:   a
+* @Last Modified time: 2018-01-30 09:27:15
+*/
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+}
+    /* <!-- 头部开始 --> */
+
+.head{
+	width: 100%;
+	height: 0.53rem;
+	background: #212121;
+}
+.logo{
+	width: 1.2rem;
+	height: 0.29rem;
+	float: left;
+	margin-top: 0.12rem;
+	margin-left: 0.20rem;
+}
+#iconlogo{
+	font-size: 0.29rem;
+	color: #ffffff;
+	float: left;
+	line-height: 0.29rem;
+}
+.shuzi{
+	font-size: 0.16rem;
+	color: #fff;
+	float: left;
+	line-height: 0.29rem;
+	margin-left: 0.08rem;
+}
+.shoujiwenzi{
+	font-size: 0.16rem;
+	color: #fff;
+	line-height: 0.29rem;
+	padding-left: 0.02rem
+}
+#caidan{
+	font-size: 0.18rem;
+	color: #595959;
+	float: right;
+	margin-right: 0.11rem;
+	margin-top: 0.2rem;
+}
+    /* <!-- 头部结束 --> */
+
+.banner{
+	width: 100%;
+	height: 5.63rem;
+	background: pink;
+}
+.last ul{
+	width: 100%;
+	height: 10.03rem;
+}
+.wenzi{
+	width: 100%;
+	height: 2.5rem;
+	border-top: 0.01rem solid #fff;
+}
+.last ul .wenzi:last-child{
+	border-bottom: 0.01rem solid #fff;
+	background: url(../img/tupian4.jpg) no-repeat center;
+	background-size: cover;
+}
+.last ul .wenzi:first-child{
+	background: url(../img/tupian1.jpg) no-repeat center;
+	background-size: cover;
+}
+.wenzi h1{
+	font-size: 0.18rem;
+	color: #666666;
+	font-weight: normal;
+	text-align: center;
+	line-height: 0.28rem;
+	margin-top: 0.21rem;
+}
+h2{
+	font-size: 0.16rem;
+	color: #666666;
+	font-weight: normal;
+	text-align: center;
+	line-height: 0.26rem;
+}
+.last ul .wenzi:nth-child(2){
+	background: url(../img/tupian2.jpg) no-repeat center;
+	background-size: cover;
+}
+.last ul .wenzi:nth-child(3){
+	background: url(../img/tupian3.jpg) no-repeat center;
+	background-size: cover;
+}
+.dibu{
+	width: 3.6rem;
+	height: 4.44rem;
+	overflow: hidden;
+	padding-right: 0.20rem;
+	padding-left: 0.20rem;
+}
+.shang{
+	width: 100%;
+	height: 1.51rem;
+	margin-top: 0.21rem;
+	position: relative;
+}
+.text{
+	width: 100%;
+	height: 0.37rem;
+	border-bottom: 0.01rem  solid #cccccc;
+} 
+.tuijian{
+	font-size: 0.13rem;
+	color: #666666;
+	font-weight: bold;
+	line-height:0.37rem;
+	float: left;
+} 
+.jiahao{
+	font-size: 0.13rem;
+	color: #666666;
+	line-height:0.37rem;
+	float: right;
+}
+.zhong{
+	width: 100%;
+	height: 1.27rem;
+	overflow: hidden;
+	border-bottom: 0.01rem solid #cccccc;
+}
+.yihang{
+	font-size: 0.14rem;
+	color: #333333;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 0.26rem;
+}
+.erhang{
+	font-size: 0.11rem;
+	color: #333333;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 0.12rem;
+}
+.sanhang{
+	font-size: 0.11rem;
+	color: #333333;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 0.12rem;
+}
+.xia{
+	width: 100%;
+	height: 1.43rem;
+}
+.yi{
+	font-size: 0.12rem;
+	color: #aeaeae;
+	line-height: 0.18rem;
+	float: left;
+	margin-left: 0.09rem;
+	margin-top:0.10rem; 
+}
+.tupian{
+	width: 0.32rem;
+	height: 0.32rem;
+	margin-top: 0.16rem;
+	margin-left: 0.17rem; 
+	float: left;
+}
+#weixin{
+	font-size: 0.32rem;
+	color: #aaaaaa;
+	float: left;
+}
